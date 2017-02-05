@@ -1,0 +1,7 @@
+Log notice stdout
+
+HiddenServiceDir /hidden_services/service1
+HiddenServicePort 80 server:80
+
+HiddenServiceDir /hidden_services/service2
+HiddenServicePort 80 server:80
